@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+div {
+    display:  inline;
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 105px;
+    padding: 25px 35px;
+    background-color: rgb(194, 120, 0);
+    margin: auto;
+    box-shadow: 1px 1px 3px rgb(161, 161, 161);
+    border-radius: 10px;
+}
+
+
+input {
+    width: 100px;
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+    border-color: aliceblue;
+    border-radius: 10px;
+}
